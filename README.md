@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Sutar</h1>
-<h3 align="center">Hi, I'm Siddhesh! I have a technical background and hold a Master of Science (M.S.) degree in Computer Information System (University of Wisconsin Parkside), majoring in Data Science.</h3>
+<h3 align="center">Data Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*oHwW14arOJOAy7Pm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh513&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh513" /> </p>
