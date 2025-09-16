@@ -1,15 +1,9 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Siddhesh Sutar
 
-<!-- Simple Animated Banner - Black & White -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Siddhesh%20Sutar&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55&descColor=ffffff" alt="Header Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=40434E&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Asta+CRS;AI%2FML+Engineer;LLM+%26+RAG+Systems+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Asta+CRS;AI%2FML+Engineer;LLM+%26+RAG+Systems+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
-</div>
-
-<!-- Profile Views Counter - Black & White Theme -->
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhesh513.github.io)
@@ -17,12 +11,8 @@
   [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidd.sutar1@gmail.com)
   [![Phone](https://img.shields.io/badge/Call-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:7304205300)
   
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhesh513&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/siddhesh513?label=Followers&style=for-the-badge&color=000000&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/siddhesh513?label=Total%20Stars&style=for-the-badge&color=000000&logoColor=white" alt="Total Stars" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=siddhesh513&color=000000&style=for-the-badge)
+  
 </div>
 
 ---
@@ -99,33 +89,12 @@ current_goal = {
 
 <div align="center">
   
-<!-- Project Cards with GitHub Stats API - Black & White Theme -->
-<a href="https://github.com/Siddhesh513/Predicting-Readability-of-Texts-Using-Machine-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=Predicting-Readability-of-Texts-Using-Machine-Learning&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&icon_color=000000&show_owner=false" />
-</a>
-
-<a href="https://github.com/Siddhesh513/MLOps_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=MLOps_project&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&icon_color=000000&show_owner=false" />
-</a>
-
-<a href="https://github.com/Siddhesh513/football_match_predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=football_match_predictor&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&icon_color=000000&show_owner=false" />
-</a>
-
-<a href="https://github.com/Siddhesh513/siddhesh513.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=siddhesh513.github.io&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&icon_color=000000&show_owner=false" />
-</a>
-
-</div>
-
-<br>
-
-### 🔗 Live Demos
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhesh513.github.io)
-[![Live Demo](https://img.shields.io/badge/Student%20Score%20Predictor-000000?style=for-the-badge&logo=render&logoColor=white)](https://student-writing-score-prediction.onrender.com/)
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **📚 Text Readability Predictor** | ML system to predict text difficulty levels for educational content optimization | Python, NLTK, Scikit-learn, NLP | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/Predicting-Readability-of-Texts-Using-Machine-Learning) |
+| **🔧 MLOps Pipeline** | End-to-end MLOps implementation with CI/CD, monitoring & automated deployment | MLflow, Docker, FastAPI, AWS | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/MLOps_project) |
+| **⚽ Football Match Predictor** | Predictive modeling for match outcomes using historical data & advanced ML | Python, XGBoost, Streamlit | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/football_match_predictor) [![Live](https://img.shields.io/badge/Live-000000?style=flat&logo=render&logoColor=white)](https://student-writing-score-prediction.onrender.com/) |
+| **🌐 Portfolio Website** | Personal portfolio with Google Analytics integration | HTML, CSS, JavaScript | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/siddhesh513.github.io) [![Live](https://img.shields.io/badge/Live-000000?style=flat&logo=vercel&logoColor=white)](https://siddhesh513.github.io) |
 
 </div>
 
@@ -205,22 +174,12 @@ University of Mumbai
 
 <div align="center">
   
-### I'm always interested in discussing new opportunities and collaborating on exciting AI/ML projects!
+I'm always interested in discussing new opportunities, collaborating on interesting projects, or just having a chat about AI/ML!
 
-<br>
-
-<a href="mailto:sidd.sutar1@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/siddsutar/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="tel:7304205300">
-  <img src="https://img.shields.io/badge/Call%20Me-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-</a>
-<a href="https://siddhesh513.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-</a>
+📧 **Email:** sidd.sutar1@gmail.com  
+📱 **Phone:** +91 7304205300  
+🔗 **LinkedIn:** [linkedin.com/in/siddsutar](https://www.linkedin.com/in/siddsutar/)  
+🌐 **Portfolio:** [siddhesh513.github.io](https://siddhesh513.github.io)
 
 </div>
 
