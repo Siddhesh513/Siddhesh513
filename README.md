@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Siddhesh Sutar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=838328&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Asta+CRS;AI%2FML+Engineer;LLM+%26+RAG+Systems+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=40434E&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Asta+CRS;AI%2FML+Engineer;LLM+%26+RAG+Systems+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
