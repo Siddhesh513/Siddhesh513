@@ -1,15 +1,15 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Siddhesh Sutar
 
-<!-- Animated Banner -->
+<!-- Simple Animated Banner - Black & White -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,24,24,24,24&text=Siddhesh%20Sutar&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55&descColor=d0d0d0" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Siddhesh%20Sutar&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55&descColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=40434E&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Asta+CRS;AI%2FML+Engineer;LLM+%26+RAG+Systems+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Asta+CRS;AI%2FML+Engineer;LLM+%26+RAG+Systems+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
-<!-- Custom Profile Views Counter -->
+<!-- Profile Views Counter - Black & White Theme -->
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhesh513.github.io)
@@ -20,9 +20,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhesh513&color=grey&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/siddhesh513?label=Followers&style=for-the-badge&color=grey" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/siddhesh513?label=Total%20Stars&style=for-the-badge&color=grey" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=siddhesh513&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/siddhesh513?label=Followers&style=for-the-badge&color=000000&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/siddhesh513?label=Total%20Stars&style=for-the-badge&color=000000&logoColor=white" alt="Total Stars" />
 </div>
 
 ---
@@ -60,52 +60,38 @@ current_goal = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 🤖 AI/ML & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48" />
-</p>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🧠 LLMs & NLP
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/chain.png" alt="LangChain" width="48" height="48" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="48" height="48" />
-  <img src="https://github.com/explosion/spaCy/blob/master/website/src/images/icon.png?raw=true" alt="spaCy" width="48" height="48" />
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Vector Databases & Search
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/pinecone-1.svg" alt="Pinecone" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="ChromaDB" width="48" height="48" />
-  <img src="https://avatars.githubusercontent.com/u/6328924?s=200&v=4" alt="FAISS" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="48" height="48" />
-</p>
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=database&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-000000?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 💾 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
-</p>
-
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -113,33 +99,33 @@ current_goal = {
 
 <div align="center">
   
-<!-- Project Cards with Preview -->
+<!-- Project Cards with GitHub Stats API - Black & White Theme -->
 <a href="https://github.com/Siddhesh513/Predicting-Readability-of-Texts-Using-Machine-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=Predicting-Readability-of-Texts-Using-Machine-Learning&theme=dark&bg_color=ffffff&title_color=000000&text_color=333333&border_color=000000&icon_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=Predicting-Readability-of-Texts-Using-Machine-Learning&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&icon_color=000000&show_owner=false" />
 </a>
 
 <a href="https://github.com/Siddhesh513/MLOps_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=MLOps_project&theme=dark&bg_color=ffffff&title_color=000000&text_color=333333&border_color=000000&icon_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=MLOps_project&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&icon_color=000000&show_owner=false" />
 </a>
 
 <a href="https://github.com/Siddhesh513/football_match_predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=football_match_predictor&theme=dark&bg_color=ffffff&title_color=000000&text_color=333333&border_color=000000&icon_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=football_match_predictor&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&icon_color=000000&show_owner=false" />
 </a>
 
 <a href="https://github.com/Siddhesh513/siddhesh513.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=siddhesh513.github.io&theme=dark&bg_color=ffffff&title_color=000000&text_color=333333&border_color=000000&icon_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhesh513&repo=siddhesh513.github.io&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&icon_color=000000&show_owner=false" />
 </a>
 
 </div>
 
 <br>
 
+### 🔗 Live Demos
+
 <div align="center">
   
-| 🔗 Live Demos |  |
-|---------------|--|
-| **Portfolio Website** | [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhesh513.github.io) |
-| **Student Score Predictor** | [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://student-writing-score-prediction.onrender.com/) |
+[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhesh513.github.io)
+[![Live Demo](https://img.shields.io/badge/Student%20Score%20Predictor-000000?style=for-the-badge&logo=render&logoColor=white)](https://student-writing-score-prediction.onrender.com/)
 
 </div>
 
@@ -221,24 +207,20 @@ University of Mumbai
   
 ### I'm always interested in discussing new opportunities and collaborating on exciting AI/ML projects!
 
-<p align="center">
-  <a href="mailto:sidd.sutar1@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/siddsutar/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-  </a>
-  <a href="tel:7304205300">
-    <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Phone" />
-  </a>
-  <a href="https://siddhesh513.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio" />
-  </a>
-</p>
-
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="mailto:sidd.sutar1@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/siddsutar/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="tel:7304205300">
+  <img src="https://img.shields.io/badge/Call%20Me-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+</a>
+<a href="https://siddhesh513.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
