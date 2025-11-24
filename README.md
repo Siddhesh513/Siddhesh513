@@ -91,10 +91,11 @@ current_goal = {
   
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **📚 Text Readability Predictor** | ML system to predict text difficulty levels for educational content optimization | Python, NLTK, Scikit-learn, NLP | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/Predicting-Readability-of-Texts-Using-Machine-Learning) |
-| **🔧 MLOps Pipeline** | End-to-end MLOps implementation with CI/CD, monitoring & automated deployment | MLflow, Docker, FastAPI, AWS | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/MLOps_project) |
-| **⚽ Football Match Predictor** | Predictive modeling for match outcomes using historical data & advanced ML | Python, XGBoost, Streamlit | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/football_match_predictor) [![Live](https://img.shields.io/badge/Live-000000?style=flat&logo=render&logoColor=white)](https://student-writing-score-prediction.onrender.com/) |
-| **🌐 Portfolio Website** | Personal portfolio with Google Analytics integration | HTML, CSS, JavaScript | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/siddhesh513.github.io) [![Live](https://img.shields.io/badge/Live-000000?style=flat&logo=vercel&logoColor=white)](https://siddhesh513.github.io) |
+| **📄 ELI5 Paper Summarizer** | Multi-level research paper summarizer with RAG architecture generating ELI5, technical, and detailed summaries | LangChain, OpenAI, ChromaDB, Streamlit, FastAPI | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/eli5-paper-summarizer) |
+| **🎙️ Reddit Audio Feed** | AI-powered audio content generator converting Reddit posts to engaging podcast-style narratives | Python, Reddit API, TTS, NLP | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/Reddit_Audio_Feed) |
+| **🔧 MLOps Pipeline** | End-to-end MLOps implementation with CI/CD, model monitoring & automated deployment | MLflow, Docker, FastAPI, AWS | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/MLOps_project) |
+| **⚽ Football Match Predictor** | Predictive modeling system for match outcomes using historical data & advanced ML algorithms | Python, XGBoost, Streamlit | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/football_match_predictor) |
+| **🤖 RAG System** | Production-ready Retrieval Augmented Generation system with vector search and LLM integration | LangChain, Pinecone, OpenAI, FastAPI | [![GitHub](https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white)](https://github.com/Siddhesh513/RAG) |
 
 </div>
 
